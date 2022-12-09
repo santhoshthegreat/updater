@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/santhoshthegreat/updater.git"
+    "url": "git@github.com:santhoshthegreat/updater.git"
   },
   "author": "",
   "license": "ISC",
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/santhoshthegreat/updater#readme",
   "devDependencies": {
-    "electron": "^11.5.0",
+    "electron": "11.5",
     "electron-builder": "^23.6.0"
   },
   "dependencies": {
