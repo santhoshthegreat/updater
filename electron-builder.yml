@@ -1,4 +1,4 @@
 appId: com.example.updater
 publish:
   provider: github
-  token: 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
+  token: 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
