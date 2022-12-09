@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../tst/ecsdemo-crystal"
+		},
+		{
+			"path": "../../tst/ecsdemo-frontend"
+		},
+		{
+			"path": "../../tst/ecsdemo-nodejs"
+		},
+		{
+			"path": "../autoupdate"
+		},
+		{
+			"path": "."
+		}
+	]
+}
