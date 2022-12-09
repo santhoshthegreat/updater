@@ -1,0 +1,4 @@
+appId: com.example.updater
+publish:
+  provider: github
+  token: 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

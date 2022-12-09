@@ -1,0 +1,29 @@
+{
+  "name": "updater",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "build": "electron-builder build --win --publish never",
+    "deploy": "electron-builder build --win --publish always"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santhoshthegreat/updater.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santhoshthegreat/updater/issues"
+  },
+  "homepage": "https://github.com/santhoshthegreat/updater#readme",
+  "devDependencies": {
+    "electron": "^11.5.0",
+    "electron-builder": "^23.6.0"
+  },
+  "dependencies": {
+    "electron-updater": "^5.3.0"
+  }
+}
